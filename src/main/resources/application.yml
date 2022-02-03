@@ -1,0 +1,8 @@
+#spring:
+#  datasource:
+#    url: asdasdasd
+#    username: asdasd
+#    password: adas
+#    driver-class-name: dasd
+amazon:
+  associateId: habuma-20
